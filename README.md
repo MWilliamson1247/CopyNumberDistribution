@@ -8,7 +8,7 @@ Datasets:
 4) M4.csv -> includes clear taxonomy for accessions found in M1
 5) GC_content_gene_number_finale_2024.csv -> includes GC content and gene numbers for accessions found in M1
 6) Archaea_2023_CN_1plus_16S_rRNA_NORMRANGE.nwk -> phylogenetic tree of archaeal accessions
-7) Bacteria_2023_CN_1plus_16S_rRNA_rarified_NORMRANGE.nwk -> phylogentic tree of subest of bacterial accessions
+7) Bacteria_2023_CN_1plus_16S_rRNA_rarified_NORMRANGE.nwk -> phylogenetic tree of subset of bacterial accessions
 
 Code:
 1) CN_Distribution_Part_1.html -> R Markdown File of the analysis
